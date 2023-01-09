@@ -1,2 +1,8 @@
 const userName = "Universal Oxygen"
-alert(userName)
+
+function UserDetails() {
+    alert("This account belongs to " + userName)
+    console.log("This account belongs to " + userName)
+}
+
+UserDetails()
