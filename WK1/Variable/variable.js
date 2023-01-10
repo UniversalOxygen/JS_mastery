@@ -10,3 +10,9 @@ function UserDetails() {
 }
 
 UserDetails()
+
+const object = { name: "John", age: 20 };
+
+for (const key in object) {
+    console.log(key)
+}
