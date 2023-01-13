@@ -28,3 +28,12 @@ if (size == 20) {
     alert("Your size is 20")
     alert("Thank you!")
 }
+
+
+//if-else statement
+if (size == 20) {
+    alert("Size is available")
+    alert("Thank you!")
+} else {
+    alert("The size is not available")
+}
